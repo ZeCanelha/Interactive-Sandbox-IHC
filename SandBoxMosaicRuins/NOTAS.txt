@@ -1,0 +1,2 @@
+a cena das questoes é ter 2 hot region | definir qual a correta | ver se ele responde bem | por o gameScreen a 1 para ele voltar ao menu
+definir tbem o menu gameOver
