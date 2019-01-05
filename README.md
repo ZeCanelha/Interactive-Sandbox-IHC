@@ -2,8 +2,4 @@
 Source code for the application developed during the semester
 
 Authors:
-Antonio Semitela
-Cristiano Campos
-Luis Amaro
-Jose Canelha
-Ruben Tomas
+Antonio Semitela, Cristiano Campos, Luis Amaro, Jose Canelha, Ruben Tomas
